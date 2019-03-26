@@ -1,0 +1,19 @@
+{
+  "name": "joeshmoebot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^11.11.6",
+    "discord.js": "^11.4.2",
+    "discord.js-musicbot-addon": "^13.4.5",
+    "node-opus": "^0.3.1",
+    "opusscript": "0.0.6"
+  },
+  "devDependencies": {},
+  "description": ""
+}
